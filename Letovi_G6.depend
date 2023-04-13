@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1642725636 source:c:\users\user\desktop\letovi_g6\letovi_g6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operacije_nad_datotekama.h"
+
+1642718240 c:\users\user\desktop\letovi_g6\letovi_g6\operacije_nad_datotekama.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"definicije.h"
+	<unistd.h>
+	<sys/types.h>
+
+1642712412 c:\users\user\desktop\letovi_g6\letovi_g6\definicije.h
+
+1642731564 source:c:\users\user\desktop\letovi_g6\letovi_g6\operacije_nad_datotekama.c
+	"operacije_nad_datotekama.h"
+
+1642729236 source:f:\3. godina\i semestar\baze 1\z4_pr_g6_93_2019_milena_cancar\z4_pr_g6_93_2019_milena_cancar\letovi_g6\letovi_g6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operacije_nad_datotekama.h"
+
+1642721840 f:\3. godina\i semestar\baze 1\z4_pr_g6_93_2019_milena_cancar\z4_pr_g6_93_2019_milena_cancar\letovi_g6\letovi_g6\operacije_nad_datotekama.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"definicije.h"
+	<unistd.h>
+	<sys/types.h>
+
+1642716012 f:\3. godina\i semestar\baze 1\z4_pr_g6_93_2019_milena_cancar\z4_pr_g6_93_2019_milena_cancar\letovi_g6\letovi_g6\definicije.h
+
+1642735164 source:f:\3. godina\i semestar\baze 1\z4_pr_g6_93_2019_milena_cancar\z4_pr_g6_93_2019_milena_cancar\letovi_g6\letovi_g6\operacije_nad_datotekama.c
+	"operacije_nad_datotekama.h"
+
